@@ -23,7 +23,7 @@ if(
 	($data->appPackageName-> "tkstudio.autoresponderforwa")
 	($data->messengerPackageName-> "com.whatsapp")
 	($data->sender-> "Erza")
-	($data->message"message" => "Successful😊")
+	($data->message-> "message" => "Successful😊")
 ){
 	
 	// package name of AutoResponder to detect which AutoResponder the message comes from.
