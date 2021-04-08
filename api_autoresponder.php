@@ -26,7 +26,8 @@ if(
 	($data->message"message" => "Successful😊")
 ){
 	
-	// package name of AutoResponder to detect which AutoResponder the message comes from.$appPackageName = $data-> "tkstudio.autoresponderforwa";
+	// package name of AutoResponder to detect which AutoResponder the message comes from.
+                                        $appPackageName = $data-> "tkstudio.autoresponderforwa";
 	// package name of messenger to detect which messenger the message comes from
 	$messengerPackageName = $data-> "com.whatsapp";
 	// name/number of the message sender (like shown in the Android notification)
